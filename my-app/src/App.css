@@ -36,19 +36,3 @@
     transform: rotate(360deg);
   }
 }
-
-.navbar-style{
-  padding: 5;
-  display: "flexbox";
-  column-gap: 10;
-  margin: 100;
-
-}
-
-.error{
-  position: absolute;
-  color: red;
-  font-size: .6rem;
-}
-
-
